@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   characters: ^1.4.4
-  material_color_utilities: ^0.13.4
+  material_color_utilities: ^0.13.0
 
 flutter:
   uses-material-design: true
